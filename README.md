@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Harpreet</h1>
 
-<!--
-**cyberharpreet/cyberharpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Linux+%7C+Networking+%7C+Bash;Future+SOC+Analyst" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student from India
+- 🔐 Exploring Cybersecurity
+- 🌱 Learning Java, Networking & Linux
+- 💻 Interested in SOC Analyst roles
+- 🤝 Open to collaboration
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,linux,bash,html,css,react,c,javascript,git,github,vscode" />
+</p>
