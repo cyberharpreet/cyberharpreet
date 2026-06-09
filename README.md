@@ -40,8 +40,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20👋,%20I'm%20Harpreet&fontColor=ffffff&fontSize=70&animation=fadeIn&descAlignY=65" />
 </p>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Linux+%7C+Networking+%7C+Bash;Java+Developer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&lines=root%40harpreet%3A~%24+whoami;Cybersecurity+Learner;SOC+Analyst+in+Progress;Linux+%7C+Networking+%7C+Bash;Java+Developer;Always+Learning+Always+Building" />
+
+</div>
 
 <br>
 
