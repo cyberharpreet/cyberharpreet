@@ -24,9 +24,19 @@
 
 
 
+
+
+
+
+
+
+
+
 <div align="center">
 
-# 👋 Hey, I'm Harpreet Singh
+<img src="./banner.png" width="100%">
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Linux+%7C+Networking+%7C+Bash;Java+Developer;Always+Learning+Always+Building" />
 
@@ -37,8 +47,6 @@
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fefad8d.gif" width="100%">
 
 # 🕶️ WHOAMI
 
@@ -60,8 +68,6 @@ Status      : Always Learning
 # 🚨 Security Operations Center Dashboard
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 Threat Level        : LOW
 
 Cybersecurity       : ███████░░░ 70%
@@ -78,8 +84,6 @@ Current Objective:
 
 System Status:
 🟢 ACTIVE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -105,68 +109,32 @@ System Status:
 
 ---
 
-# 🛠 Tools & Technologies
-
-<div align="center">
-
-| Domain | Technologies |
-|----------|-------------|
-| Operating Systems | Linux, Windows |
-| Programming | Java, Python, C |
-| Networking | TCP/IP, DNS, DHCP |
-| Web | HTML, CSS, JavaScript, React |
-| Version Control | Git, GitHub |
-| IDEs | VS Code |
-| Security | Kali Linux, Wireshark (Learning) |
-
-</div>
-
----
-
 # 🔥 Featured Projects
 
-## 🛡 Smart Classroom Cognitive Comfort Index System
-
+### 🛡 Smart Classroom Cognitive Comfort Index System
 - ESP32 + IoT Sensors
-- Real-Time Monitoring Dashboard
-- PostgreSQL Database
-- Node.js Backend
-- React Frontend
-- Socket.IO Real-Time Updates
+- Real-Time Dashboard
+- PostgreSQL + Node.js + React
 
----
-
-## ❤️ VitalCare
-
+### ❤️ VitalCare
 - AI-Powered Health Diagnostic Assistant
-- Symptom Analysis
-- Wellness Tracking
-- Emergency Support Features
-- Machine Learning Integration
+- Symptom Analysis & Wellness Tracking
 
----
+### 🌧 Smart Rainwater Conservation System
+- IoT Monitoring & Water Analytics
 
-## 🌧 Smart Rainwater Conservation System
-
-- Sensor-Based Monitoring
-- Water Conservation Analytics
-- Sustainable Engineering Solution
 ---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/dpsharpreet">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/cyberharpreet">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
@@ -175,15 +143,23 @@ System Status:
 
 # 🛡️ Cybersecurity Philosophy
 
-> "Security is not a product, but a process."
+> Security is not a product, but a process.
 
-> "The quieter you become, the more you are able to hear."
+> The quieter you become, the more you are able to hear.
 
 ---
 
 <div align="center">
 
 ### ⚡ Building • Learning • Securing ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00D9FF&height=120&section=footer"/>
+
+</div>
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00D9FF&height=120&section=footer"/>
 
