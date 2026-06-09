@@ -164,7 +164,3 @@ System Status:
 
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00D9FF&height=120&section=footer"/>
-
-</div>
