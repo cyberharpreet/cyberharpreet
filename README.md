@@ -31,12 +31,18 @@
 
 
 
-
+<!--
 <div align="center">
 
 <img src="./banner.svg" width="100%">
 
-<br><br>
+<br><br>-->
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:0D1117,100:00FF88&text=Harpreet%20Singh&fontColor=ffffff&fontSize=75&animation=fadeIn&desc=Building%20%E2%80%A2%20Learning%20%E2%80%A2%20Securing&descAlignY=68" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;SOC+Analyst+in+Progress;Linux+%7C+Networking+%7C+Bash;Java+Developer;Always+Learning+Always+Building" />
 
