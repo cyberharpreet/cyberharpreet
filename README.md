@@ -151,19 +151,6 @@ System Status:
 - Sensor-Based Monitoring
 - Water Conservation Analytics
 - Sustainable Engineering Solution
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cyberharpreet&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberharpreet&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # ⚡ GitHub Streak
@@ -184,15 +171,7 @@ System Status:
 
 </div>
 
----
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberharpreet&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -214,27 +193,7 @@ System Status:
 
 </div>
 
----
 
-# 🧠 Learning Path
-
-```text
-Cybersecurity
-     │
-     ├── Networking ✅
-     │
-     ├── Linux ✅
-     │
-     ├── Programming ✅
-     │
-     ├── Security Fundamentals 🔄
-     │
-     ├── SOC Analyst 🔄
-     │
-     ├── Cloud Security ⏳
-     │
-     └── Penetration Testing ⏳
-```
 
 ---
 
