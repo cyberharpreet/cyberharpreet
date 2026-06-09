@@ -153,28 +153,6 @@ System Status:
 - Sustainable Engineering Solution
 ---
 
-# ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberharpreet&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyberharpreet&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -192,8 +170,6 @@ System Status:
 </a>
 
 </div>
-
-
 
 ---
 
