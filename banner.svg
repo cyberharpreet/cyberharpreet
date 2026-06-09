@@ -1,0 +1,22 @@
+<svg width="1200" height="350" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#00AEEF"></stop>
+      <stop offset="100%" stop-color="#00111F"></stop>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="350" fill="#0D1117"></rect>
+
+  <circle cx="600" cy="120" r="120" fill="url(#glow)"></circle>
+
+  <text x="600" y="140" font-size="80" fill="white" text-anchor="middle" font-family="Arial" font-weight="bold">
+      Hi! 👋 I'm Harpreet
+  </text>
+
+  <text x="600" y="260" font-size="32" fill="#00AEEF" text-anchor="middle" font-family="Courier New">
+      Cybersecurity Learner
+  </text>
+
+</svg>
