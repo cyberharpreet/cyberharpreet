@@ -32,7 +32,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=cyberharpreet&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
 </div>
 
@@ -51,7 +51,6 @@ Location    : India
 Role        : Cybersecurity Learner
 Focus       : Linux | Networking | SOC
 Languages   : Java, Python, C
-University  : Chitkara University
 Goal        : Security Analyst
 Status      : Always Learning
 ```
@@ -91,7 +90,6 @@ System Status:
 - 🌐 Mastering Computer Networks
 - 🐧 Linux Administration
 - 🛡️ Security Monitoring & SOC Concepts
-- 🚩 CTF Challenges & Labs
 - ☁️ Exploring Cloud Security
 - 💻 Building Real-World Security Projects
 
@@ -160,9 +158,9 @@ System Status:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cyberharpreet&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberharpreet&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -172,7 +170,7 @@ System Status:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberharpreet&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -182,7 +180,7 @@ System Status:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cyberharpreet&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -192,7 +190,7 @@ System Status:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberharpreet&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -202,11 +200,11 @@ System Status:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://github.com/dpsharpreet">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/cyberharpreet">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
