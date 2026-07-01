@@ -135,7 +135,7 @@ System Status:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dpsharpreet">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
